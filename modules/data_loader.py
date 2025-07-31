@@ -76,9 +76,9 @@ class DataLoader:
 if __name__ == "__main__":
     data_loader = DataLoader(
         file_paths=[
-            "../assets/attention_is_all_you_need.pdf",
-            "../assets/attention_is_all_you_need.docx",
-            "../assets/attention_is_all_you_need.txt",
+            "assets/attention_is_all_you_need.pdf",
+            "assets/attention_is_all_you_need.docx",
+            "assets/attention_is_all_you_need.txt",
         ]
     )
     data = data_loader.load_data()
