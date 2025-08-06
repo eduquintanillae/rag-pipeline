@@ -8,3 +8,4 @@ sentence-transformers==5.0.0
 scikit-learn==1.7.1
 chromadb==1.0.15
 openai==1.98.0
+python-multipart==0.0.20
